@@ -12,5 +12,11 @@
 
 </div>
 
+<div align="center">
+
+  ![Snake animation](https://raw.githubusercontent.com/mfachrilirham/mfachrilirham/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
 
 
