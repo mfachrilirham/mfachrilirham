@@ -12,9 +12,19 @@
 
 </div>
 
+##
+
 <div align="center">
 
   ![Snake animation](https://raw.githubusercontent.com/mfachrilirham/mfachrilirham/output/snake.svg)
+  
+</div>
+
+##
+
+<div align="center">
+
+  ![:name](https://count.getloli.com/get/@:mfachrilirham?theme=moebooru)
   
 </div>
 
